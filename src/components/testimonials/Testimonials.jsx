@@ -38,7 +38,7 @@ function Testimonials() {
                 <div className={styles.testimonial__swiper + " " + styles.container + " swiper"}>
                     <div className="swiper-wrapper">
                         <article className={styles.testimonial__card + " swiper-slide"}>
-                            <img src="./src/img/avatar-1.webp" alt="João Pedro, head-and-shoulders portrait of a man smiling at the camera, neutral blurred background suggesting a studio setting, conveys a warm and friendly tone" className={styles.testimonial__img} />
+                            <img src="/img/avatar-1.webp" alt="João Pedro, head-and-shoulders portrait of a man smiling at the camera, neutral blurred background suggesting a studio setting, conveys a warm and friendly tone" className={styles.testimonial__img} />
                             <h3 className={styles.testimonial__name}>João Pedro</h3>
                             <div className={styles.testimonial__rating}>
                                 <div className={styles.testimonial__stars}>
@@ -56,7 +56,7 @@ function Testimonials() {
                         </article>
 
                         <article className={styles.testimonial__card + " swiper-slide"}>
-                            <img src="./src/img/avatar-3.webp" alt="Ana Rosa, head-and-shoulders portrait of a woman smiling at the camera, soft neutral background suggesting a studio setting, conveys a joyful and approachable tone" className={styles.testimonial__img} />
+                            <img src="/img/avatar-3.webp" alt="Ana Rosa, head-and-shoulders portrait of a woman smiling at the camera, soft neutral background suggesting a studio setting, conveys a joyful and approachable tone" className={styles.testimonial__img} />
                             <h3 className={styles.testimonial__name}>Ana Rosa</h3>
                             <div className={styles.testimonial__rating}>
                                 <div className={styles.testimonial__stars}>
@@ -73,7 +73,7 @@ function Testimonials() {
                             </p>
                         </article>
                         <article className={styles.testimonial__card + " swiper-slide"}>
-                            <img src="./src/img/avatar-4.webp" alt="Julia Santos, head-and-shoulders portrait of a woman with a gentle smile and relaxed expression, neutral blurred background suggesting a studio setting, conveys a calm and confident tone" className={styles.testimonial__img} />
+                            <img src="/img/avatar-4.webp" alt="Julia Santos, head-and-shoulders portrait of a woman with a gentle smile and relaxed expression, neutral blurred background suggesting a studio setting, conveys a calm and confident tone" className={styles.testimonial__img} />
                             <h3 className={styles.testimonial__name}>Julia Santos</h3>
                             <div className={styles.testimonial__rating}>
                                 <div className={styles.testimonial__stars}>

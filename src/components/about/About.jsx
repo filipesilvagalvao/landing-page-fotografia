@@ -21,7 +21,7 @@ function About() {
             <div className={styles.about__container}>
 
                 <div className={styles.about__img} ref={refImg}>
-                    <img src="./src/img/pessoa.png" alt="sobre mim perfil" />
+                    <img src="/img/pessoa.png" alt="sobre mim perfil" />
                 </div>
 
                 <div className={styles.about__content} ref={refElements}>
