@@ -9,7 +9,7 @@ export const GlobalStorage = ({ children }) => {
 
     async function fetchData() {
         try {
-            const response = await fetch("./src/data.json")
+            const response = await fetch("/data.json")
             if (!response.ok) {
                 throw new Error("Houve algum erro na comunicação com a api: " + response.status);
             }
