@@ -1,0 +1,57 @@
+.portfolio{
+    margin-top: calc(100dvh + 40px);
+    padding: 30px 0;
+    width: 95%;
+    margin: calc(100dvh + 40px) auto 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.portfolio__title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: min(2rem,7.5vw);
+    span{
+        font-family: 'Times New Roman', Times, serif;
+        background-color: var(--bg-color-2);
+        color: var(--text-color-3);
+    }
+}
+
+.portfolio__categories{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    width: 100%;
+
+    input{
+        display: none;
+    }
+
+    input:checked + label{
+        background-color: var(--bg-color-2);
+    }
+
+    label{
+        flex-grow: 1;
+        min-width: 15%;
+        padding: 15px 20px;
+        border: 1px solid var(--border-color-1);
+        font-family: "Montserrat", sans-serif;
+        text-transform: uppercase;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 5px;
+        cursor: pointer;
+        transition: background-color ease-in-out 0.5s;
+
+        svg{
+            fill: var(--text-color-3);
+            width: min(40px,6vw);
+            height: auto;
+        }
+    }
+}

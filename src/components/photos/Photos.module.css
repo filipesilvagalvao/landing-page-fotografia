@@ -1,0 +1,15 @@
+.photos{
+    margin: auto;
+    columns: 4 300px;
+    column-gap: 15px;
+    padding-bottom: 30px;
+
+    img{
+        display: block;
+        margin-bottom: 15px;
+        width: 100%;
+        transform: scale(0.7,0.7);
+        opacity: 0;
+        transition: all 1.5s;
+    }
+}

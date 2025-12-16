@@ -1,0 +1,142 @@
+.testimonial {
+    min-height: 80vh;
+    overflow: hidden;
+    color: var(--text-color-1);
+    position: relative;
+    background-image: linear-gradient(180deg, rgba(10, 10, 10, 0.6), rgba(5, 5, 5, 0.85)), url("./src/img/asfalt-dark.png");
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+}
+
+.responsive {
+    position: relative;
+    max-width: 1100px;
+    margin: 2.5rem auto 1rem;
+    padding: 0 1rem;
+}
+
+.testimonial__swiper {
+    padding-bottom: 4.5rem;
+}
+
+.testimonial__title {
+    font-size: 2.4rem;
+    text-align: center;
+    margin-top: 2.5rem;
+    color: var(--text-color-1);
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0 4px 18px rgba(0, 0, 0, 0.6);
+
+    span {
+        background-color: var(--bg-color-4);
+        color: var(--text-color-3);
+        font-family: 'Times New Roman', Times, serif;
+    }
+}
+
+.testimonial__card {
+    width: 300px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.03), rgba(255, 255, 255, 0.01));
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.45);
+    padding: 2rem 1.5rem 2.5rem;
+    text-align: center;
+    color: var(--text-color-1);
+}
+
+.testimonial__img {
+    width: 96px;
+    height: 96px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid rgba(255, 255, 255, 0.08);
+    margin: 0 auto .6rem;
+}
+
+.testimonial__name {
+    font-size: 1.15rem;
+    margin-bottom: 1rem;
+    color: var(--text-color-1);
+}
+
+.testimonial__rating {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 0.75rem;
+    margin-bottom: .75rem;
+}
+
+.testimonial__stars {
+    display: flex;
+    align-items: center;
+    column-gap: .25rem;
+
+    i {
+        font-size: 1rem;
+        color: var(--bg-color-3);
+    }
+}
+
+.testimonial__number {
+    font-size: 1.15rem;
+    font-family: "Montserrat", sans-serif;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.testimonial :global(.swiper-pagination-bullets) {
+    bottom: 3rem;
+}
+
+.testimonial :global(.swiper-pagination-bullet) {
+    background-color: rgba(255, 255, 255, 0.18);
+    opacity: 0.9;
+}
+
+.testimonial :global(.swiper-pagination-bullet-active) {
+    background-color: var(--bg-color-3);
+}
+
+.testimonial :global(.swiper-button-prev) {
+    left: calc(50% - 3rem);
+    color: var(--text-color-1);
+
+    svg {
+        display: none;
+    }
+}
+
+.testimonial :global(.swiper-button-next) {
+    right: calc(50% - 3rem);
+    color: var(--text-color-1);
+
+    svg {
+        display: none;
+    }
+}
+
+.testimonial :is( :global(.swiper-button-prev), :global(.swiper-button-next)) {
+    top: initial;
+    bottom: 0;
+    width: 2.6rem;
+    height: 2.6rem;
+    background-color: var(--bg-color-3);
+    border-radius: 50%;
+    font-size: 1.25rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 700px) {
+    .testimonial {
+        min-height: auto;
+        padding: 3rem 0;
+    }
+
+    .testimonial__card {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
