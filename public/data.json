@@ -3,61 +3,61 @@
         {
             "id": 1,
             "orientação": "retrato",
-            "foto": "/src/data/feminino/mulher-sentada-na-escada.jpg",
+            "foto": "/data/feminino/mulher-sentada-na-escada.jpg",
             "alt": "Mulher sentada na escada"
         },
         {
             "id": 2,
             "orientação": "retrato",
-            "foto": "/src/data/feminino/mulher-ruiva-perto-de-flores.jpg",
+            "foto": "/data/feminino/mulher-ruiva-perto-de-flores.jpg",
             "alt": "Mulher ruiva perto de flores"
         },
         {
             "id": 3,
             "orientação": "retrato",
-            "foto": "/src/data/feminino/mulher-negra-com-blusa-vermelha.jpg",
+            "foto": "/data/feminino/mulher-negra-com-blusa-vermelha.jpg",
             "alt": "Mulher negra com blusa vermelha"
         },
         {
             "id": 4,
             "orientação": "retrato",
-            "foto": "/src/data/feminino/mulher-loira-foto-rosto-preto-e-branco.jpg",
+            "foto": "/data/feminino/mulher-loira-foto-rosto-preto-e-branco.jpg",
             "alt": "Mulher loira foto de rosto preto e branco"
         },
         {
             "id": 5,
             "orientação": "retrato",
-            "foto": "/src/data/feminino/mulher-de-vestido-vermelho-na-floresta.jpg",
+            "foto": "/data/feminino/mulher-de-vestido-vermelho-na-floresta.jpg",
             "alt": "Mulher de vestido vermelho na floresta"
         },
         {
             "id": 6,
             "orientação": "paisagem",
-            "foto": "/src/data/feminino/mulher-de-cabelos-cachedos-cor-de-mel-em-uma-paisagem-de-aurora.jpg",
+            "foto": "/data/feminino/mulher-de-cabelos-cachedos-cor-de-mel-em-uma-paisagem-de-aurora.jpg",
             "alt": "Mulher de cabelos cacheados cor de mel em uma paisagem de aurora"
         },
         {
             "id": 7,
             "orientação": "paisagem",
-            "foto": "/src/data/feminino/mulher-branca-de-cabelo-escuro-chanel-usando-roupas-brancas.jpg",
+            "foto": "/data/feminino/mulher-branca-de-cabelo-escuro-chanel-usando-roupas-brancas.jpg",
             "alt": "Mulher branca de cabelo chanel escuro usando roupas brancas"
         },
         {
             "id": 8,
             "orientação": "paisagem",
-            "foto": "/src/data/feminino/menina-com-mexas-azuis-segurando-uma-rosa.jpg",
+            "foto": "/data/feminino/menina-com-mexas-azuis-segurando-uma-rosa.jpg",
             "alt": "Menina com mexas azuis segunrando uma rosa"
         },
         {
             "id": 9,
             "orientação": "paisagem",
-            "foto": "/src/data/feminino/jovem-morena-olhando-para-camera.jpg",
+            "foto": "/data/feminino/jovem-morena-olhando-para-camera.jpg",
             "alt": "Jovem morena olhando para camera"
         },
         {
             "id": 10,
             "orientação": "paisagem",
-            "foto": "/src/data/feminino/jovem-dentro-de-seu-quarto-admirando-o-amanhacer.jpg",
+            "foto": "/data/feminino/jovem-dentro-de-seu-quarto-admirando-o-amanhacer.jpg",
             "alt": "Jovem dentro de seu quarto admirando o amanhecer"
         }
     ],
@@ -65,61 +65,61 @@
         {
             "id": 11,
             "orientação": "retrato",
-            "foto": "/src/data/gestante/foto-de-gestan-em-preto-e-branco.jpg",
+            "foto": "/data/gestante/foto-de-gestan-em-preto-e-branco.jpg",
             "alt": "Gestante em preto e branco"
         },
         {
             "id": 12,
             "orientação": "retrato",
-            "foto": "/src/data/gestante/gestante-com-seu-marido-num-sítio.jpg",
+            "foto": "/data/gestante/gestante-com-seu-marido-num-sítio.jpg",
             "alt": "Gestante com seu marido em um sítio"
         },
         {
             "id": 13,
             "orientação": "retrato",
-            "foto": "/src/data/gestante/gestante-de-cabelos-castanhos-lisos-em-meio-as-plantas.jpg",
+            "foto": "/data/gestante/gestante-de-cabelos-castanhos-lisos-em-meio-as-plantas.jpg",
             "alt": "Gestante com cabelos castanhos lisos entre plantas"
         },
         {
             "id": 14,
             "orientação": "retrato",
-            "foto": "/src/data/gestante/gestante-de-vestido-bege-olhando-a-janela.jpg",
+            "foto": "/data/gestante/gestante-de-vestido-bege-olhando-a-janela.jpg",
             "alt": "Gestante de vestido bege olhando a janela"
         },
         {
             "id": 15,
             "orientação": "retrato",
-            "foto": "/src/data/gestante/gestante-na-lagoa-olhando-para-a-barriga.jpg",
+            "foto": "/data/gestante/gestante-na-lagoa-olhando-para-a-barriga.jpg",
             "alt": "Gestante na lagoa olhando para a barriga"
         },
         {
             "id": 16,
             "orientação": "paisagem",
-            "foto": "/src/data/gestante/gestante-na-praia-com-ondas-do-mar.jpg",
+            "foto": "/data/gestante/gestante-na-praia-com-ondas-do-mar.jpg",
             "alt": "Gestante na praia com as ondas ao fundo"
         },
         {
             "id": 17,
             "orientação": "paisagem",
-            "foto": "/src/data/gestante/gestante-no-quarto-da-crianca.jpg",
+            "foto": "/data/gestante/gestante-no-quarto-da-crianca.jpg",
             "alt": "Gestante no quarto da criança"
         },
         {
             "id": 18,
             "orientação": "paisagem",
-            "foto": "/src/data/gestante/gestante-sob-os-raios-solares.jpg",
+            "foto": "/data/gestante/gestante-sob-os-raios-solares.jpg",
             "alt": "Gestante sob raios solares"
         },
         {
             "id": 19,
             "orientação": "paisagem",
-            "foto": "/src/data/gestante/menina-escutando-o-irmaozinho-na-barriga-da-mae.jpg",
+            "foto": "/data/gestante/menina-escutando-o-irmaozinho-na-barriga-da-mae.jpg",
             "alt": "Menina escutando o irmãozinho na barriga da mãe"
         },
         {
             "id": 20,
             "orientação": "paisagem",
-            "foto": "/src/data/gestante/mulher-gravida-lendo-um-livro-deitada-num-sofa.jpg",
+            "foto": "/data/gestante/mulher-gravida-lendo-um-livro-deitada-num-sofa.jpg",
             "alt": "Mulher grávida lendo um livro deitada no sofá"
         }
     ],
@@ -127,61 +127,61 @@
         {
             "id": 21,
             "orientação": "retrato",
-            "foto": "/src/data/familia/familia-se-abracando.jpg",
+            "foto": "/data/familia/familia-se-abracando.jpg",
             "alt": "Família se abraçando"
         },
         {
             "id": 22,
             "orientação": "retrato",
-            "foto": "/src/data/familia/mae-e-filha-cozinha.jpg",
+            "foto": "/data/familia/mae-e-filha-cozinha.jpg",
             "alt": "Mãe e filha na cozinha"
         },
         {
             "id": 23,
             "orientação": "retrato",
-            "foto": "/src/data/familia/mae-e-filha-no-parquinho.jpg",
+            "foto": "/data/familia/mae-e-filha-no-parquinho.jpg",
             "alt": "Mãe e filha no parquinho"
         },
         {
             "id": 24,
             "orientação": "retrato",
-            "foto": "/src/data/familia/pai-brincando-de-erguer-seu-filho.jpg",
+            "foto": "/data/familia/pai-brincando-de-erguer-seu-filho.jpg",
             "alt": "Pai brincando de erguer seu filho"
         },
         {
             "id": 25,
             "orientação": "retrato",
-            "foto": "/src/data/familia/mae-lendo-uma-historia-para-filho.jpg",
+            "foto": "/data/familia/mae-lendo-uma-historia-para-filho.jpg",
             "alt": "Mãe lendo uma história para o filho"
         },
         {
             "id": 26,
             "orientação": "paisagem",
-            "foto": "/src/data/familia/familia-a-beira-mar.jpg",
+            "foto": "/data/familia/familia-a-beira-mar.jpg",
             "alt": "Família à beira-mar"
         },
         {
             "id": 27,
             "orientação": "paisagem",
-            "foto": "/src/data/familia/familia-num-piquenique.jpg",
+            "foto": "/data/familia/familia-num-piquenique.jpg",
             "alt": "Família em um piquenique"
         },
         {
             "id": 28,
             "orientação": "paisagem",
-            "foto": "/src/data/familia/filhos-na-sala.jpg",
+            "foto": "/data/familia/filhos-na-sala.jpg",
             "alt": "Filhos brincando na sala"
         },
         {
             "id": 29,
             "orientação": "paisagem",
-            "foto": "/src/data/familia/filho-e-pai-em-uma-doca-de-barcos.jpg",
+            "foto": "/data/familia/filho-e-pai-em-uma-doca-de-barcos.jpg",
             "alt": "Filho e pai em uma doca de barcos"
         },
         {
             "id": 30,
             "orientação": "paisagem",
-            "foto": "/src/data/familia/filho-e-pai-cochilando-juntos.jpg",
+            "foto": "/data/familia/filho-e-pai-cochilando-juntos.jpg",
             "alt": "Filho e pai cochilando juntos"
         }
     ],
@@ -189,61 +189,61 @@
         {
             "id": 31,
             "orientação": "retrato",
-            "foto": "/src/data/casal/casa-de-maos-dadas-com-luzes-nos-bracos.jpg",
+            "foto": "/data/casal/casa-de-maos-dadas-com-luzes-nos-bracos.jpg",
             "alt": "Casal de mãos dadas com luzes nos braços"
         },
         {
             "id": 32,
             "orientação": "retrato",
-            "foto": "/src/data/casal/casa-se-perto-de-flores-azuis.jpg",
+            "foto": "/data/casal/casa-se-perto-de-flores-azuis.jpg",
             "alt": "Casal perto de flores azuis"
         },
         {
             "id": 33,
             "orientação": "retrato",
-            "foto": "/src/data/casal/casal-de-idosos-perto-da-janela-do-lado-de-fora.jpg",
+            "foto": "/data/casal/casal-de-idosos-perto-da-janela-do-lado-de-fora.jpg",
             "alt": "Casal de idosos perto da janela"
         },
         {
             "id": 34,
             "orientação": "retrato",
-            "foto": "/src/data/casal/casal-num-passeio-ao-ar-livre-com-um-caozinho.jpg",
+            "foto": "/data/casal/casal-num-passeio-ao-ar-livre-com-um-caozinho.jpg",
             "alt": "Casal em passeio ao ar livre com um cãozinho"
         },
         {
             "id": 35,
             "orientação": "retrato",
-            "foto": "/src/data/casal/casal-numa-plantacao-de-cevado.jpg",
+            "foto": "/data/casal/casal-numa-plantacao-de-cevado.jpg",
             "alt": "Casal em plantação de cevado"
         },
         {
             "id": 36,
             "orientação": "paisagem",
-            "foto": "/src/data/casal/casal-se-beijando-numa-janela.jpg",
+            "foto": "/data/casal/casal-se-beijando-numa-janela.jpg",
             "alt": "Casal se beijando na janela"
         },
         {
             "id": 37,
             "orientação": "paisagem",
-            "foto": "/src/data/casal/casal-visto-da-janela-do-metro.jpg",
+            "foto": "/data/casal/casal-visto-da-janela-do-metro.jpg",
             "alt": "Casal visto da janela do metrô"
         },
         {
             "id": 38,
             "orientação": "paisagem",
-            "foto": "/src/data/casal/foto-preto-e-branco-de-um-casal-de-maos-dadas.jpg",
+            "foto": "/data/casal/foto-preto-e-branco-de-um-casal-de-maos-dadas.jpg",
             "alt": "Foto preto e branco de casal de mãos dadas"
         },
         {
             "id": 39,
             "orientação": "paisagem",
-            "foto": "/src/data/casal/namorado-deitado-no-colo-de-sua-amada.jpg",
+            "foto": "/data/casal/namorado-deitado-no-colo-de-sua-amada.jpg",
             "alt": "Namorado deitado no colo de sua amada"
         },
         {
             "id": 40,
             "orientação": "retrato",
-            "foto": "/src/data/casal/namorado-tocando-violao-para-sua-amada.jpg",
+            "foto": "/data/casal/namorado-tocando-violao-para-sua-amada.jpg",
             "alt": "Namorado tocando violão para sua amada"
         }
     ],
@@ -251,61 +251,61 @@
         {
             "id": 41,
             "orientação": "retrato",
-            "foto": "/src/data/casamento/foto-preta-e-branca-da-noiva.jpg",
+            "foto": "/data/casamento/foto-preta-e-branca-da-noiva.jpg",
             "alt": "Foto preto e branco da noiva"
         },
         {
             "id": 42,
             "orientação": "retrato",
-            "foto": "/src/data/casamento/madrinhas-do-casamento.jpg",
+            "foto": "/data/casamento/madrinhas-do-casamento.jpg",
             "alt": "Madrinhas do casamento"
         },
         {
             "id": 43,
             "orientação": "retrato",
-            "foto": "/src/data/casamento/noiva-segurando-um-buque-de-flores-em-frente-a-um-lago.jpg",
+            "foto": "/data/casamento/noiva-segurando-um-buque-de-flores-em-frente-a-um-lago.jpg",
             "alt": "Noiva segurando buquê em frente a um lago"
         },
         {
             "id": 44,
             "orientação": "retrato",
-            "foto": "/src/data/casamento/noivos-demonstrando-carinho-num-jardim.jpg",
+            "foto": "/data/casamento/noivos-demonstrando-carinho-num-jardim.jpg",
             "alt": "Noivos demonstrando carinho em um jardim"
         },
         {
             "id": 45,
             "orientação": "retrato",
-            "foto": "/src/data/casamento/noivos-num-jantar-romantico.jpg",
+            "foto": "/data/casamento/noivos-num-jantar-romantico.jpg",
             "alt": "Noivos em jantar romântico"
         },
         {
             "id": 46,
             "orientação": "paisagem",
-            "foto": "/src/data/casamento/noivos-se-beijando-com-buque-de-flores-na-frente.jpg",
+            "foto": "/data/casamento/noivos-se-beijando-com-buque-de-flores-na-frente.jpg",
             "alt": "Noivos se beijando com buquê na frente"
         },
         {
             "id": 47,
             "orientação": "paisagem",
-            "foto": "/src/data/casamento/vel-da-noiva-cobrindo-os-noivos.jpg",
+            "foto": "/data/casamento/vel-da-noiva-cobrindo-os-noivos.jpg",
             "alt": "Véu da noiva cobrindo os noivos"
         },
         {
             "id": 48,
             "orientação": "paisagem",
-            "foto": "/src/data/casamento/espelho-dagua-refletindo-os-noivos.jpg",
+            "foto": "/data/casamento/espelho-dagua-refletindo-os-noivos.jpg",
             "alt": "Espelho d'água refletindo os noivos"
         },
         {
             "id": 49,
             "orientação": "paisagem",
-            "foto": "/src/data/casamento/noivos-deitados-no-gramado-com-folhas-secas.jpg",
+            "foto": "/data/casamento/noivos-deitados-no-gramado-com-folhas-secas.jpg",
             "alt": "Noivos deitados no gramado com folhas secas"
         },
         {
             "id": 50,
             "orientação": "paisagem",
-            "foto": "/src/data/casamento/comemoracao-de-casamento-com-velas.jpg",
+            "foto": "/data/casamento/comemoracao-de-casamento-com-velas.jpg",
             "alt": "Comemoração de casamento com velas"
         }
     ],
@@ -313,61 +313,61 @@
         {
             "id": 51,
             "orientação":"paisagem",
-            "foto":"/src/data/feminino/mulher-de-cabelos-cachedos-cor-de-mel-em-uma-paisagem-de-aurora.jpg",
+            "foto":"/data/feminino/mulher-de-cabelos-cachedos-cor-de-mel-em-uma-paisagem-de-aurora.jpg",
             "alt":"Mulher de cabelos cacheados cor de mel em uma paisagem de aurora"
         },
         {
             "id":52,
             "orientação":"paisagem",
-            "foto":"/src/data/feminino/menina-com-mexas-azuis-segurando-uma-rosa.jpg",
+            "foto":"/data/feminino/menina-com-mexas-azuis-segurando-uma-rosa.jpg",
             "alt":"Mulher branca de cabelo chanel escuro usando roupas brancas"
         },
         {
             "id": 53,
             "orientação": "paisagem",
-            "foto": "/src/data/gestante/mulher-gravida-lendo-um-livro-deitada-num-sofa.jpg",
+            "foto": "/data/gestante/mulher-gravida-lendo-um-livro-deitada-num-sofa.jpg",
             "alt": "Mulher grávida lendo um livro deitada no sofá"
         },
         {
             "id": 54,
             "orientação": "paisagem",
-            "foto": "/src/data/gestante/menina-escutando-o-irmaozinho-na-barriga-da-mae.jpg",
+            "foto": "/data/gestante/menina-escutando-o-irmaozinho-na-barriga-da-mae.jpg",
             "alt": "Menina escutando o irmãozinho na barriga da mãe"
         },
         {
             "id": 55,
             "orientação": "paisagem",
-            "foto": "/src/data/familia/familia-num-piquenique.jpg",
+            "foto": "/data/familia/familia-num-piquenique.jpg",
             "alt": "Família em um piquenique"
         },
         {
             "id": 56,
             "orientação": "paisagem",
-            "foto": "/src/data/familia/filho-e-pai-cochilando-juntos.jpg",
+            "foto": "/data/familia/filho-e-pai-cochilando-juntos.jpg",
             "alt": "Filho e pai cochilando juntos"
         },
         {
             "id": 57,
             "orientação": "paisagem",
-            "foto": "/src/data/casal/namorado-deitado-no-colo-de-sua-amada.jpg",
+            "foto": "/data/casal/namorado-deitado-no-colo-de-sua-amada.jpg",
             "alt": "Namorado deitado no colo de sua amada"
         },
         {
             "id": 58,
             "orientação": "retrato",
-            "foto": "/src/data/casal/namorado-tocando-violao-para-sua-amada.jpg",
+            "foto": "/data/casal/namorado-tocando-violao-para-sua-amada.jpg",
             "alt": "Namorado tocando violão para sua amada"
         },
         {
             "id": 59,
             "orientação": "paisagem",
-            "foto": "/src/data/casamento/noivos-deitados-no-gramado-com-folhas-secas.jpg",
+            "foto": "/data/casamento/noivos-deitados-no-gramado-com-folhas-secas.jpg",
             "alt": "Noivos deitados no gramado com folhas secas"
         },
         {
             "id": 60,
             "orientação": "paisagem",
-            "foto": "/src/data/casamento/comemoracao-de-casamento-com-velas.jpg",
+            "foto": "/data/casamento/comemoracao-de-casamento-com-velas.jpg",
             "alt": "Comemoração de casamento com velas"
         }
 
